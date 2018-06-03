@@ -110,7 +110,7 @@ height: auto;
   font-size: 0;
   letter-spacing: -4px;
   white-space: nowrap; }
-  #nav .nav-drop {
+  #nav .# {
     overflow: hidden; }
   #nav ul {
     padding: 9px 0 5px;
@@ -126,7 +126,7 @@ height: auto;
     margin: 0 0 0 34px; }
     #nav li a {
       display: block;
-      color: #635C73; }
+      color: #f6e240; }
       #nav li a:hover {
         text-decoration: none;
         color: #8d81ac; }
