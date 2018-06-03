@@ -6,6 +6,10 @@ html {
   height: 100%; }
 
 body {
+  background: #000 
+  url(https://github.com/kennymzkvks/kennymzkvks.github.io/blob/master/images/pix.jpg);
+  background-repeat: repeat;
+  background-size: 100%}
   margin: 0;
   height: 100%;
   font: 1.3rem/1.61538 "Montserrat", sans-serif; }
