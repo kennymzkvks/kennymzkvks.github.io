@@ -69,7 +69,10 @@ height: auto;
   float: left;
   margin: 0 0 0 15px;
   width: 151px;
-  height: 41px; }
+  height: 41px; 
+  background-image: url(images/pix2.jpg);
+  background-attachment: fixed;
+	background-size: 100%;}
 
 .social-placeholder {
   padding: 9px 0 0;
