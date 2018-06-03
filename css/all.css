@@ -7,7 +7,7 @@ html {
 
 body {
   background: #000 
-  url('https://github.com/kennymzkvks/kennymzkvks.github.io/blob/master/images/pix.jpg');
+  url(https://github.com/kennymzkvks/kennymzkvks.github.io/blob/master/images/pix.jpg);
   background-attachment: fixed;
   background-repeat: repeat;}
   margin: 0;
